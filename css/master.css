@@ -1,0 +1,23 @@
+.Top{
+  background-image: url(../images/rose.jpg);
+  background-color: #b3ced7;
+  padding: 100px 100px;
+  margin: 50px ;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.master{
+background-color:#e3ba8f;
+}
+#header{
+  font-size: 50px;
+  font-family: sans-serif;
+  color: green;
+  text-align: left;
+}
+#pheader{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: black;
+
+}
