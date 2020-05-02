@@ -48,5 +48,13 @@ background-color:#eee7d7;
 }
 .about-Job{
   margin-left: 160px;
-
+}
+#Job{
+  color: green;
+}
+.about-edu{
+  margin-left: 160px;
+}
+#edu{
+  color: green;
 }
