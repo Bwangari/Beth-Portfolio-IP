@@ -18,10 +18,7 @@ Pesronal Portfolio
 
 #link to live site on GitHub Pages
 
-
-
-
-
+https://bwangari.github.io/Beth-Portfolio-IP/
 
 
 
