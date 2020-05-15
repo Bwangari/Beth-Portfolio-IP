@@ -1,3 +1,5 @@
+@media screen and (min-width: 480px){
+
 .Top{
   background-image: url(../images/rose.jpg);
   padding: 50px 100px;
@@ -83,4 +85,5 @@ width: 300px;
  padding-left: 50px;
  margin-left: 10px;
 
+}
 }
