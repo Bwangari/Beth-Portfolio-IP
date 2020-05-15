@@ -13,13 +13,9 @@ Personal Portfolio
 -If you would like to contribute or build your personal simple HTML and CSS portfolio fork the project to your repo and start working on it.
 
 
-
-
-
 #link to live site on GitHub Pages
 
 https://bwangari.github.io/Beth-Portfolio-IP/
-
 
 
 #copyright and license information
