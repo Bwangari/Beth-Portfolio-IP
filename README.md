@@ -1,5 +1,5 @@
 #project Name
-Pesronal Portfolio
+Personal Portfolio
 
 #author name
 @Beth_Wangari
