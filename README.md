@@ -1,7 +1,7 @@
-#project Name
+## Project Name
 Personal Portfolio
 
-#author name
+## Author Name
 @Beth_Wangari
 
 #description of project
